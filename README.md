@@ -6,7 +6,7 @@ Welcome to my personal portfolio project. This website showcases my journey as a
 
 ## Live Demo
 You can visit the live website here:  
-[canan-erva-aydn-portfolio.netlify.app](canan-erva-aydin-portfolio.netlify.app)
+[canan-erva-aydn-portfolio.netlify.app](https://canan-erva-aydin-portfolio.netlify.app)
 
 ---
 
